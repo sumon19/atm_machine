@@ -1,0 +1,144 @@
+#body1 {
+    position:absolute;
+	background-image:url(images/log.jpg);
+	background-size:1420px 650px;
+	
+	
+	
+}
+#body2 {
+	position:absolute;
+	/*background-image:url(images/log.jpg);*/
+	background-size:1420px 650px;
+	
+	
+	
+}
+#pass{
+	
+margin-top:200px;
+margin-left:600px;
+
+}
+#butt {
+	position:absolute;
+	margin-left:850px;
+	margin-top:-40px;
+	/*left:850px;
+	top:135px;*/
+	
+}
+#blocked
+{
+	position:absolute;
+	text-align:left;
+	font-size: 40px;
+    color:darkblue;
+	
+	
+	/*left:-50px;*/
+	
+	
+}
+#time
+{
+	float:right;
+	font-size: 30px;
+    color:darkblue;
+	
+	
+	/*left:-50px;*/
+	
+	
+}
+#bt1:hover , #bt2:hover,#bt4:hover,#bt3:hover {
+	color:white;
+	background-color:darkblue;
+}
+#cc
+{
+	position:absolute;
+	margin-top:380px;
+	color:darkblue;
+	
+}
+#c1 {
+	position:absolute;
+	margin-top:380px;
+	color:darkblue;
+	
+}
+#blocked1
+{
+	position:absolute;
+	font-size: 40px;
+    color:darkblue;
+	
+	text-align: left;
+	
+	
+	
+}
+#div1 {
+	position:absolute;
+	margin-left:1150px;
+	margin-top:-50px;
+	
+}
+#btn1,#btn2,#btn3,#btn4,#btn5 {
+	color:white;
+	background-color:#0066ac;
+	height:50px;	
+    width:170px;
+
+}
+#btn1:hover,#btn2:hover,#btn3:hover,#btn4:hover,#btn5:hover {
+	color:white;
+	background-color:darkblue;
+
+}
+#bt1 , #bt2,#bt4{
+	height:25px;
+	color:white;
+	background-color:#0066ac;
+}
+#div2 {
+	margin-left:620px;
+	margin-top:200px;
+	
+}
+#numbers {
+	position:absolute;
+	margin-left:650px;
+	margin-top:30px;
+	
+	
+	
+}
+#bt3 {
+	
+	height:30px;	
+    width:40px;
+	color:white;
+	background-color:#0066ac;
+	
+}
+/*input, button {
+height:50px;	
+width:170px;
+	
+	
+}*/
+#audio {
+	position:absolute;
+	
+}
+#numbers1 {
+	position:absolute;
+	margin-left:643px;
+	margin-top:30px;
+	
+	
+	
+}
+
